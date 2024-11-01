@@ -6,7 +6,7 @@
 
 - 📚 I’m currently learning **AI, iOS development, and exploring anything else that catches my interest.**
 
-- 👨‍💻 All of my projects are available at [https://jam1esp0rtf01i0.netlify.app/](https://jam1esp0rtf01i0.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://th1sjam1ela1.netlify.app/](https://th1sjam1ela1.netlify.app/)
 
 - 💬 Ask me about **anything, anytime.**
 
