@@ -4,7 +4,7 @@
 
 - 💼 I’m currently either **sleeping** 💤 or in front of my **laptop** 💻.
 
-- 📚 I’m currently learning **AI, iOS development, and exploring anything else that catches my interest.**
+- 📚 I’m currently learning **AI, software development, and exploring anything else that catches my interest.**
 
 - 👨‍💻 All of my projects are available at [https://th1sjam1ela1.netlify.app/](https://th1sjam1ela1.netlify.app/)
 
