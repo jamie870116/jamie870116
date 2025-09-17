@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jamie Lai</h1>
-<h3 align="center">I’m currently pursuing my M.S. in Computer Science at UCSB and actively seeking new grad or internship Software Engineering opportunities for 2025.</h3>
+<h3 align="center">I’m currently pursuing my M.S. in Computer Science at UCSB and actively seeking new grad Software Engineering/Machine Learning opportunities for 2025.</h3>
 
 
-- 💼 I’m currently either **sleeping** 💤 or in front of my **laptop** 💻.
+<!---- 💼 I’m currently either **sleeping** 💤 or in front of my **laptop** 💻.-->
 
-- 📚 I’m currently learning **AI, software development, and exploring anything else that catches my interest.**
+<!---- 📚 I’m currently learning **AI, software development, and exploring anything else that catches my interest.**-->
 
-- 👨‍💻 All of my projects are available at [https://jamielai0116.netlify.app/](https://jamielai0116.netlify.app/)
+- My personal website: [https://jamielai0116.netlify.app/](https://jamielai0116.netlify.app/)
 
-- 💬 Ask me about **anything, anytime.**
+<!---- 💬 Ask me about **anything, anytime.**-->
 
-- ⚡ Outside of coding, I enjoy **video games**🎮 , **travel**🗺️ , and **photography**📸.
+<!---- ⚡ Outside of coding, I enjoy **video games**🎮 , **travel**🗺️ , and **photography**📸.
 
 <!--- 📫 How to reach me **jamie870116@gmail.com**-->
 
