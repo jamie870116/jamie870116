@@ -6,7 +6,7 @@
 
 <!---- 📚 I’m currently learning **AI, software development, and exploring anything else that catches my interest.**-->
 
-- My personal website: [https://jamielai0116.netlify.app/](https://jamielai0116.netlify.app/)
+- My personal website: [https://jamielaicy.com/](https://jamielaicy.com/)
 
 <!---- 💬 Ask me about **anything, anytime.**-->
 
