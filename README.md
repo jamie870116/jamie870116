@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jamie Lai</h1>
+<h1 align="center">Hi, I'm Jamie Lai</h1>
 <h3 align="center">I’m currently pursuing my M.S. in Computer Science at UCSB and actively seeking new grad Software Engineering/Machine Learning opportunities for 2025.</h3>
 
 
@@ -6,7 +6,7 @@
 
 <!---- 📚 I’m currently learning **AI, software development, and exploring anything else that catches my interest.**-->
 
-My personal website: [https://jamielaicy.com/](https://jamielaicy.com/)
+<!----My personal website: [https://jamielaicy.com/](https://jamielaicy.com/)-->
 
 <!---- 💬 Ask me about **anything, anytime.**-->
 
