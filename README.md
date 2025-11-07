@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jamie Lai</h1>
-<h3 align="center">I’m currently pursuing my M.S. in Computer Science at UCSB and actively seeking new grad Software Engineering/Machine Learning opportunities for 2025.</h3>
+<p align="center">I’m currently pursuing my M.S. in Computer Science at UCSB and actively seeking new grad Software Engineering/Machine Learning opportunities for 2025.</p>
 
 
 <!---- 💼 I’m currently either **sleeping** 💤 or in front of my **laptop** 💻.-->
